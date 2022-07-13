@@ -1,5 +1,5 @@
 import math
-from dist.sdk import greetings_function as greet
+from sdk import greetings_function as greet
 
 def test_sqrt():
    num = 25
